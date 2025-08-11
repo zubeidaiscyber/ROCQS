@@ -1,0 +1,18 @@
+﻿ID;MpCQ;Entity/ies;Template (Y/N);Instantiates template;Source;Link;
+mpcq_1;Is each instance of [EntityX] necessarily (at all times of its existence) an instance of [EntityX]? ;rigid vs non-rigid;Y;;this library;;
+mpcq_2;Must each instance of [EntityX] necessarily be NOT an instance (for at least some time) of [EntityX] (for the duration of its existence)? ;anti-rigid vs semi-rigid;Y;;this library;;
+mpcq_3;Does [perdurantX] itself have a definite endpoint?;telicity (yes: telic);Y;;this library;;
+mpcq_4;Is [pardurantX]'s endpoint determined outside that process?;telicity (yes: atelic);Y;;this library;;
+mpcq_5;Is there one type of relation among identifiable parts of [X] that make [X] a whole?;unity;Y;;this library;;
+mpcq_6;Is there one type of relation among identifiable parts of a bikini that makes a bikini a whole?;unity;N;mpcq_5;this library;;
+mpcq_7;Is [X] a whole where its non-contiguous separate parts relate through instances of one type of relation?;unity;Y;;this library;;
+mpcq_8;Is Electorate of South Africa a whole, where its separate parts (voters) relate through instance of one relation (e.g., FellowAdultCitizen(x,y))? ;unity;N;mpcq_7;this library;;
+mpcq_9;Is computer program a whole, where its separate parts relate through instance of one relation (e.g., the property of being in the same source code graph)? ;unity;N;mpcq_7;this library;;
+mpcq_10;Must each instance of boxer necessarily be NOT an instance (for at least some time) of Boxer (for the duration of its existence)? ;anti-rigid;N;mpcq_2;this library;;
+mpcq_11;Is each instance of boxer necessarily (at all times of its existence) an instance of boxer? ;anti-rigid;N;mpcq_1;this library;;
+mpcq_12;Is each instance of a coffee bean necessarily (at all times of its existence) an instance of a coffee bean?;rigid;N;mpcq_1;this library;;
+mpcq_13;Is crema an essential part to the identity of an espresso?;unity;N;;this library;;
+mpcq_14;Must each instance of a student necessarily be NOT an instance (for at least some time) of a professor (for the duration of their existence)?;anti-rigid vs semi-rigid;N;mpcq_2;this library;;
+mpcq_15;Is there a unifying relation among the pizza's parts contributing to the identity of a pizza?;unity;N;;this library;;
+mpcq_16;Does reaching the top of the Mount Everest itself have a definite endpoint?;telicity;N;mpcq_3;this library;;
+mpcq_17;Is death's endpoint determined outside that process (of dying)?;telicity;N;mpcq_4;this library;;
