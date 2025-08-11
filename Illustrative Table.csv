@@ -1,6 +1,0 @@
-﻿Type of OCQ;Purpose;Examples;
-Scoping CQ (SCQ);Define the domain and scope of the ontology;Which predators eat rabbits? What information is clinically relevant for social interaction assessment?;
-Validation CQ (VCQ);Verify the accuracy of the content;Is ruby a type of chocolate? What is the Base of ThinAndCrispyPizza? ;
-Foundational CQ (FCQ);Align entities with a foundational ontology;Is water bottle classified as a Material Entity in the BFO foundational ontology? Is coffee something that cannot be counted, or only in specific quantities?;
-Relationship CQ (RCQ);Investigate the characteristics of relationships;What is the domain and range of the eating relationship? If a body contains a heart and a heart contains a cell, does the body contain the cell?;
-Metaproperty CQ (MpCQ);Classify entities based on metaproperties;Is each instance of a coffee bean necessarily (at all times of its existence) an instance of a coffee bean? Does a thesis defense have a definite endpoint?;
