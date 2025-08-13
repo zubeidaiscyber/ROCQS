@@ -1,324 +1,326 @@
-﻿ID;SCQ;Ontology;Template (Y/N);Source;Link
-swo_01;What is the algorithm used to process [this data]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_02;What are the alternatives to [this software]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_03;What other alternatives to [this software] are there?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_04;"Which of the named and published ""algorithms"" does [this tool] use?";SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_05;Are there any modification to [the algorithm] [the tool] uses?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_06;Does [this software] provide XML editing?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_07;What type of software is [it]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_08;What software can perform [task x]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_09;Is [it] appropriate software for [my task]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_10;What are the primary inputs and outputs [of this software]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_11;Which visualisation software is there for [this data] and what will it cost?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_12;What software works best with [my dataset]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_13;Does [it] render a gif?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_14;Which software tool created [this data]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_15;What software can I use [my data] with to support [my task]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_16;What are the input and output formats for [this software]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_17;What data from [person x] is analysed with [tool y], [version z]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_18;What software can read a .cel file?;SWO;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_19;What are the export options for [this software]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_20;What is the valid input for [this software]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_21;Can [this software] export from its proprietary data format to an open format such as csv, txt?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_22;Can [software A] work with data that are output from [software B]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_23;To what extent does [the software] support appropriate open standards?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_24;Is [this software] compatible with [it]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_25;What open source, maintained software can I use to process [these] in [this format]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_26;Is the output format of [it] proprietary?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_27;Can I render [it] if the software supplier goes out of business?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_28;Given [input x], what are the data exports for [this version] of [x]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_29;Where can I get [the software]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_30;Is there a mailing list for [it]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_31;How do I get help with [it]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_32;How can I get problems with [it] fixed?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_33;Are there any active forums discussing [its] use?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_34;Where do I get updates for [this software]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_35;Who developed [it]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_36;What is the homepage of [the software]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_37;Can we collaborate with developers of [software x]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_38;Where can I buy [it] from?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_39;Which URL can I get [it] from?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_40;Which is the fastest software to read [this data]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_41;Does [this software] meet the ISO-4 standard?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_42;Do I know anyone who has used [this software] or processed [this type of data]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_43;How and where has [this software] been used successfully in the past?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_44;How long has [this software] been around?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_45;How actively developed is [it]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_46;What do others say about [the software] quality?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_47;How reliable is [it]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_48;What software is better for [task x] given [restriction y]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_49;Who are the potential users of [software we develop]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_50;Who else has used [tool x] today?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_51;How popular is [it]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_52;How many settings do I need to know to rerun [this analysis]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_53;Is [this software] available as a web service?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_54;What is the version of [this software]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_55;What new features are in [this version] of [it]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_56;What are the differences between versions of [it]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_57;When was the 1.0 version of [it] released?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_58;Is [this software] open source development? Is there a community development?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_59;What license does [it] have, and what is its permissiveness?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_60;Is [it] open source or not?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_61;At what point did the license type of [it] change?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_62;Who owns the copyright for [it]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_63;What is the licensing history of [it]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_64;How many licenses do we need to run [it] productively?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_65;Is [it] FOSS?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_66;Do I need a password to use [it]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_67;Is [it] free or not?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_68;What level of expertise is required to use [it]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_69;Are there any usage examples for [it]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_70;Is there any documentation for [it] and where can I find it?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_71;Does [it] have a tutorial?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_72;Where is the documentation of [it]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_73;Where's the documentation of [it]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_74;How well documented is [the software] for developers?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_75;How do I cite [the software]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_76;Is there a publication with [it]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_77;Is [it] scriptable?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_78;Is [it] extensible?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_79;How can I extend [the software] to include a new function?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_80;Can I use some components of [the software] for my software?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_81;What hardware do I need to run [this software]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_82;What graphics card does [this software] require?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_83;In what language was [it] implemented?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_84;What platform does [the software] run on?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_85;Can I install [this] on a university computer?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_86;What compiler do I need to compile source code on [platform x]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_87;Does [it] work on 64 bit windows?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-swo_88;Do I need a license key to use [it]?;SWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-stuff_01;Is [this stuff] a pure or a mixed stuff?;Stuff;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-stuff_02;What is the difference between [this colloid] and [this colloid]?;Stuff;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-stuff_03;In which phases are the stuffs in [this colloid]?;Stuff;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-stuff_04;Can a solution be a pure stuff?;Stuff;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-stuff_05;Which kind of stuff are [these stuffs]?;Stuff;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-stuff_06;Are solutions never emulsions?;Stuff;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-stuff_07;Which stuffs have as part exactly two substuffs?;Stuff;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-stuff_08;What distinguishes structured from unstructured stuff?;Stuff;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-stuff_09;What kind of colloid is [this colloid stuff]?;Stuff;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-stuff_10;What kind of homogeneous mixture is [this colloid stuff]?;Stuff;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-stuff_11;Where do I categorise bulk like [this bulk]?;Stuff;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-awo_1;Which animal eats which other animal?;AWO;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-awo_2;Is [this animal] a herbivore?;AWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-awo_3;Which plant parts does [this omnivorous or herbivorourus animal] eat?;AWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-awo_4;Does a lion eat plants or plant parts?;AWO;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-awo_5;Is there an animal that does not drink water?;AWO;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-awo_6;Which plants eat animals?;AWO;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-awo_7;Which animals eat [these animals]?;AWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-awo_8;Which animals are the predators of [these animals]?;AWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-awo_9;Are there [these animals] in [this country]?;AWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-awo_10;Which country do I have to visit to see [these animals]?;AWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-awo_11;In what kind of habitat do [this animal] live?;AWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-awo_12;Which animals are endangered?;AWO;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-awo_13;Do [this animal] and [this animal] live in the same habitat?;AWO;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-awo_14;Are there animals that are carnivore but still eat some plants or parts of plants?;AWO;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_1;What are the protocol parts?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_2;What types of data are collected during medical and clinical consultation?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_3;What types of demographic data are collected?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_4;What is the gender information?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_5;What are the main types of education level?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_6;What are the main types of laterality?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_7;What types of clinical data are collected?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_8;What are the types of diagnosis?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_9;What types of cognitive abilities assessment data are collected?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_10;What data are collected for MMSE;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_11;What data are collected for FAB;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_12;What data are collected for the trail making test?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_13;What data are collected for the short cognitive battery test?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_14;What data are collected for the free and cued selective reminding test?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_15;What types of neuropsychiatric/mood assessment data are collected?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_16;What data are collected for NPI?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_17;What data are collected for DSM-IV criteria?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_18;What data are collected for AI and diagnostic criteria for apathy?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_19;What types of motricity abilities assessment data are collected?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_20;What data are collected for UPDRS?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_21;What types of autonomy assessment data are collected?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_22;What types of steps does ecological assessment consist of?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_23;What are the types of directed tasks?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_24;Which are the physical directed tasks?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_25;Which are the vocal directed tasks?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_26;What is the nature of a directed task?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_27;Which directed tasks are mono tasks?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_28;Which directed tasks are dual tasks?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_29;Which are the tasks of the semi-directed step?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_30;What are the types of tasks in the discussion with clinician step?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_31;Which are the directed discussion tasks?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_32;Which are the free discussion tasks?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_33;What is assessed in the walking task?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_34;What is assessed in the counting backwards task?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_35;What is assessed in the walking and counting backwards task?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_36;What is assessed in the sentence repeating task?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_37;What is assessed in the articulation control task?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_38;What is assessed in the tasks of the semi-directed protocol step?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_39;What is assessed in the tasks of the discussion with clinician step?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_40;What data are measured for gait assessment?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_41;What data are measured for dynamic balance?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_42;What data are measured for step length?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_43;What data are measured for walking speed?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_44;What data are measured for walking speed instantaneous?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_45;What data are measured for stopping displacement?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_46;What data are measured for latency?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_47;What data are measured for stress?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_48;What data are measured for cognitive and neuromuscular assessment?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_49;What data are measured for affective state assessment?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_50;What data are measured for interaction assessment?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_51;What data are measured for neuromuscular impairment in speech production mechanism?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_52;What data are measured for cognitive abilities assessment?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_53;What data are measured for organizational efficiency assessment?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_54;What data are measured for functional abilities assessment?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_55;What functional areas are of clinical relevance for the home and nursing home environments?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_56;How are the statistics and identified problematic situations about the monitored functional areas reported to the clinician?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_57;What types of questionnaires are administered for self-assessment?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_58;What activities (situations) are of clinical interest with respect to sleep?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_59;What information is of clinical interest regarding night sleep?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_60;What information is of clinical interest regarding a nap?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_61;What information is of clinical interest regarding an awakening?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_62;What information is of clinical interest regarding a bed exit?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_63;What information if of clinical interest regarding a night bathroom visit?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_64;What information is clinically relevant for sleep assessment?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_65;What sleep-related situations indicate a problem or possibly problematic behaviour that needs to be highlighted to the clinician?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_66;What activities (situations) are of clinical interest with respect to ADLs?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_67;What information is of clinical interest regarding food and drink preparation?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_68;What information is of clinical interest regarding food and drink consumption?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_69;What information is of clinical interest regarding housekeeping?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_70;What information is of clinical interest regarding personal hygiene?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_71;What food and drink preparation-related situations indicate a problem or possibly problematic behaviour that needs to be highlighted to the clinician?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_72;What food and drink consumption-related situations indicate a problem or possibly problematic behaviour that needs to be highlighted to the clinician?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_73;What housekeeping-related situations indicate a problem or possibly problematic behaviour that needs to be highlighted to the clinician?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_74;What personal hygiene-related situations indicate a problem or possibly problematic behaviour that needs to be highlighted to the clinician?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_75;What activities (situations) are of clinical interest with respect to social interaction?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_76;What information is clinically relevant for social interaction assessment?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_77;What social interaction related situations indicate a problem or possibly problematic behaviour that needs to be highlighted to the clinician?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_78;What activities (situations) are of clinical interest with respect to physical activity?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_79;What information is clinically relevant for walking?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_80;What information is clinically relevant for dedicated physical activities (i.e. exercises)?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_81;What information is clinically relevant for physical activity assessment?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_82;What physical activity related situations indicate a problem or possibly problematic behaviour that needs to be highlighted to the clinician?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_83;What are the main types of entities?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_84;What are the main categories a person may belong to?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_85;What are the main types of objects?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_86;What are the main categories of places?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_87;What are the types of indoor place?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_88;What are the main types of events?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_89;What are the main types of information describing an event?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_90;What are the main categories of events?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_91;What activities are detected?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_92;What states are detected?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_93;What object related events are detected?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_94;What ambient measurements are detected?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_95;What physiological measurements are detected?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_96;What activities are inferred?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_97;What are the main types of data considered?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_98;What are the main types of data an observation may refer to?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_99;What types of descriptive information are relevant to an observation?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_100;What are the main types of data a report may refer to?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_101;What types of descriptive information are relevant to a report?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_102;What are the main types of data an interpretation result may refer to?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_103;What types of descriptive information are relevant to a result?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_104;What are the main types of sensors?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_105;What are the possible types of wearable sensors?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_106;What are the possible types of fixed sensors?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-demcare_107;What are the possible types processing components?;Dem@Care;N;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-ontodt_01;What is the set of characterizing operations for [a datatype X]?;OntoDT;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-ontodt_02;What is the set of datatype qualities for [a datatype X]?;OntoDT;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-ontodt_03;What is the value space for [a datatype X]?;OntoDT;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-ontodt_04;What is the set of datatypes that have [a datatype quality X]?;OntoDT;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-ontodt_05;What is the set of datatypes that have [a characterizing operation X]?;OntoDT;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-ontodt_06;What is the set of datatypes that have [a datatype quality X] and [characterizing operation Y]?;OntoDT;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-ontodt_07;What are the aggregated datatypes that have [an aggregate generator property X]?;OntoDT;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-ontodt_08;What is the set of aggregate properties for [an aggregate datatype X]?;OntoDT;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-ontodt_09;What are the field components for [a tuple datatype X]?;OntoDT;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-ontodt_10;What is the base datatype for [a set datatype X]?;OntoDT;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-ontodt_11;What is the base datatype for [an extended datatype X]?;OntoDT;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-ontodt_12;What is the subtype generator for [an extended datatype X]?;OntoDT;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-ontodt_13;What is the set of extended datatypes that have [datatype X] as their base datatype?;OntoDT;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-ontodt_14;What is the set of extended datatypes that are generated by [a subtype generator X]?;OntoDT;Y;CQ dataset of Potoniec et al;https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
-toct_1;How many words does [template] have;ToCT;Y;Mahlaza, Z., Keet, C.M. ToCT: A task ontology to manage complex templates. FOIS'21 Ontology Showcase, 13-16 September 2021, Bolzano, Italy. Sanfilippo, E.M. et al. (Eds.). CEUR-WS vol. 2969. 9p.;
-toct_2;How many words that depend on others does [template] have?;ToCT;Y;Mahlaza, Z., Keet, C.M. ToCT: A task ontology to manage complex templates. FOIS'21 Ontology Showcase, 13-16 September 2021, Bolzano, Italy. Sanfilippo, E.M. et al. (Eds.). CEUR-WS vol. 2969. 9p.;
-toct_3;Which property results in a change in surface form between [word]?;ToCT;Y;Mahlaza, Z., Keet, C.M. ToCT: A task ontology to manage complex templates. FOIS'21 Ontology Showcase, 13-16 September 2021, Bolzano, Italy. Sanfilippo, E.M. et al. (Eds.). CEUR-WS vol. 2969. 9p.;
-toct_4;If there is a dependency between [word] and [word], which word is the governor?;ToCT;Y;Mahlaza, Z., Keet, C.M. ToCT: A task ontology to manage complex templates. FOIS'21 Ontology Showcase, 13-16 September 2021, Bolzano, Italy. Sanfilippo, E.M. et al. (Eds.). CEUR-WS vol. 2969. 9p.;
-toct_5;Does [word] have a constant base form?;ToCT;Y;Mahlaza, Z., Keet, C.M. ToCT: A task ontology to manage complex templates. FOIS'21 Ontology Showcase, 13-16 September 2021, Bolzano, Italy. Sanfilippo, E.M. et al. (Eds.). CEUR-WS vol. 2969. 9p.;
-toct_6;Which grammar rule will be activated when forming [word] if it’s dependent on another word?;ToCT;Y;Mahlaza, Z., Keet, C.M. ToCT: A task ontology to manage complex templates. FOIS'21 Ontology Showcase, 13-16 September 2021, Bolzano, Italy. Sanfilippo, E.M. et al. (Eds.). CEUR-WS vol. 2969. 9p.;
-toct_7;Can [word] ever be placed in [slot]?;ToCT;Y;Mahlaza, Z., Keet, C.M. ToCT: A task ontology to manage complex templates. FOIS'21 Ontology Showcase, 13-16 September 2021, Bolzano, Italy. Sanfilippo, E.M. et al. (Eds.). CEUR-WS vol. 2969. 9p.;
-toct_8;Can [grammar rule] exist without [word]?;ToCT;Y;Mahlaza, Z., Keet, C.M. ToCT: A task ontology to manage complex templates. FOIS'21 Ontology Showcase, 13-16 September 2021, Bolzano, Italy. Sanfilippo, E.M. et al. (Eds.). CEUR-WS vol. 2969. 9p.;
-mola_1;Which languoids are dialects of [language]?;MoLA;Y;Gillis-Webber, F., Tittel, S., Keet, C.M.. A Model for Language Annotations on the Web. 1st Iberoamerican conference on Knowledge Graphs and Semantic Web (KGSWC'19). Springer CCIS vol. 1029, 1-16. 23-30 June 2019, Villa Clara, Cuba.;https://ontology.londisizwe.org/mola/article/2019-kgswc-supplementary-material
-mola_2;How many languoids does [language family] have?;MoLA;Y;Gillis-Webber, F., Tittel, S., Keet, C.M.. A Model for Language Annotations on the Web. 1st Iberoamerican conference on Knowledge Graphs and Semantic Web (KGSWC'19). Springer CCIS vol. 1029, 1-16. 23-30 June 2019, Villa Clara, Cuba.;https://ontology.londisizwe.org/mola/article/2019-kgswc-supplementary-material
-mola_3;Is dialect a language?;MoLA;N;Gillis-Webber, F., Tittel, S., Keet, C.M.. A Model for Language Annotations on the Web. 1st Iberoamerican conference on Knowledge Graphs and Semantic Web (KGSWC'19). Springer CCIS vol. 1029, 1-16. 23-30 June 2019, Villa Clara, Cuba.;https://ontology.londisizwe.org/mola/article/2019-kgswc-supplementary-material
-mola_4;Which types of languages have been classified?;MoLA;N;Gillis-Webber, F., Tittel, S., Keet, C.M.. A Model for Language Annotations on the Web. 1st Iberoamerican conference on Knowledge Graphs and Semantic Web (KGSWC'19). Springer CCIS vol. 1029, 1-16. 23-30 June 2019, Villa Clara, Cuba.;https://ontology.londisizwe.org/mola/article/2019-kgswc-supplementary-material
-mola_5;Is [languoid/language] divided into different time periods?;MoLA;Y;Gillis-Webber, F., Tittel, S., Keet, C.M.. A Model for Language Annotations on the Web. 1st Iberoamerican conference on Knowledge Graphs and Semantic Web (KGSWC'19). Springer CCIS vol. 1029, 1-16. 23-30 June 2019, Villa Clara, Cuba.;https://ontology.londisizwe.org/mola/article/2019-kgswc-supplementary-material
-mola_6;Does [language] have a region defined?;MoLA;Y;Gillis-Webber, F., Tittel, S., Keet, C.M.. A Model for Language Annotations on the Web. 1st Iberoamerican conference on Knowledge Graphs and Semantic Web (KGSWC'19). Springer CCIS vol. 1029, 1-16. 23-30 June 2019, Villa Clara, Cuba.;https://ontology.londisizwe.org/mola/article/2019-kgswc-supplementary-material
-mola_7;Which languages are spoken in [region]?;MoLA;Y;Gillis-Webber, F., Tittel, S., Keet, C.M.. A Model for Language Annotations on the Web. 1st Iberoamerican conference on Knowledge Graphs and Semantic Web (KGSWC'19). Springer CCIS vol. 1029, 1-16. 23-30 June 2019, Villa Clara, Cuba.;https://ontology.londisizwe.org/mola/article/2019-kgswc-supplementary-material
-mola_8;Is [language] the standard variety?;MoLA;Y;Gillis-Webber, F., Tittel, S., Keet, C.M.. A Model for Language Annotations on the Web. 1st Iberoamerican conference on Knowledge Graphs and Semantic Web (KGSWC'19). Springer CCIS vol. 1029, 1-16. 23-30 June 2019, Villa Clara, Cuba.;https://ontology.londisizwe.org/mola/article/2019-kgswc-supplementary-material
-mola_9;Is [language] in ISO 639?;MoLA;Y;Gillis-Webber, F., Tittel, S., Keet, C.M.. A Model for Language Annotations on the Web. 1st Iberoamerican conference on Knowledge Graphs and Semantic Web (KGSWC'19). Springer CCIS vol. 1029, 1-16. 23-30 June 2019, Villa Clara, Cuba.;https://ontology.londisizwe.org/mola/article/2019-kgswc-supplementary-material
-scq_1;What is the conformance level of the LRS?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_2;Which group is the most active?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_3;Which is the preferred interaction tool between agents?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_4;What is the activity that appears most frequently in the LRS?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_5;Which verb is the most used?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_6;Which activity interaction has the lowest success rate?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_7;Is there a rain qualified as a very heavy rain?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_8;What are the values of a rain properties (unit, location, date, etc;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_9; Who are the stakeholders involved in energy management at district and building levels?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_10;   What KPIs can be used to measure the performance goals of stakeholders?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_11;   How can KPIs be calculated?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_12;   What observation provides the datum sources for KPI calculation?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_13;   Where is the district located?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_14;   What type of buildings does the district contain?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_15;   What kind of energy-generating units are installed in the district?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_16;   When is the energy production monitored?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_17;   What is the unit of measurement of the energy production?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_18;   What energy aspects are influenced by the weather?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_19;   What all is known about the natural history of [species X]?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_20;   What natural history observations do we have for [species X] in North America?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_21;   What are the positive, negative, and neutral biotic interactions observed for species of the [genus X]?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_22;   Toward which species is [species X] antagonistic?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_23;   Given a list of species from some community, how do these species interact with each other?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_24;   If species X were to become locally extinct, what other species might be impacted?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_25;   Which insect species might be conserved if a piece of forest with tree species X, Y, and Z is preserved?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_26;   Which species visit flowers of the genus X?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_27;   Which insect species of the [family X] are associated with trees?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_28;   Which species of the genus X have not been found on flowers?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_29;   Near which tree species does species X engage in courtship behaviors?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_30;   Are all occurrences of species X associated with plant species Y?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_31;   Which species of the order X have been observed laying eggs on a plant species on which they have not been observed feeding?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_32;   What predator/prey interactions have been observed in state park X?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_33;   What specimens are associated with observations of predation by species X, and where are they located?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_34;   From which host life stages has parasitoid species X emerged?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_35;   Which species of the genus X are parasitized by the species Y?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_36;   From which species have species of the genus X emerged?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_37;   Which host associations for the parasitoid species X are supported by at least 3 different observers?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_38;   Are there parasitoids of hyperparasitoids?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_39;   What species of insects have been found in two or more hosts from different taxonomic orders?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_40;   On eggs of which species has parasitoid species X been found?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_41;   What does species X eat?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_42;   What are all the food sources for lab rearing of species X?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_43;   What predators eat species X?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_44;   Does species X eat carrion?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_45;   Do insects ever eat hummingbirds?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_46;   Which species farm fungus X?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_47;   Where does species X lay its eggs?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_48;   When does species X lay its eggs?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_49;   Which insects are found on insects that are found on carrion?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_50;   Which species of the family X have larvae associated with species of the family Y?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_51;   On which parts of the human body have bot flies been found?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_52;   Which ant species are known to sting humans?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_53;   What are the northern-most records of insects feeding on humans?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_54;   Which species of the order X have been collected in houses in Florida?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_55;   Which insect species have been found on human remains?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_56;   What are potential natural controls of potential pests of crop X?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_57;   What are the potential vectors of crop disease X?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_58;   Which species of the order X parasitize mammals in Africa?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_59;   Does species X make a cocoon?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_60;   What do we know about the development of species X?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_61;   Is there developmental information about species X from lab rearings?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_62;   What is known about the development time of species X?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_63;   Which species of genus X are found in tropical lowland forests?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_64;   Which insect genera are found in both forests and deserts?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_65;   Which species are found in biome X?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_66;   Under what temperature regimes do fireflies signal?;;N;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_67;   Which species in family X are nocturnal?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_68;   Has species X been collected at lights?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_69;   Which non-target species are collected in pheromone traps for species X?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-scq_70;   What methods should I use to observe or collect species X?;;Y;Collected by MJ Antia;https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
-coffee_scq1;   What types of coffee beans and beverages will be included?;;N;this library;
-coffee_scq2;   Which equipment is required for each brewing technique?;;N;this library;
+ID,SCQ,Ontology,Template (Y/N),Source,Link
+swo_01,What is the algorithm used to process [this data]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_02,What are the alternatives to [this software]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_03,What other alternatives to [this software] are there?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_04,"Which of the named and published ""algorithms"" does [this tool] use?",SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_05,Are there any modification to [the algorithm] [the tool] uses?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_06,Does [this software] provide XML editing?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_07,What type of software is [it]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_08,What software can perform [task x]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_09,Is [it] appropriate software for [my task]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_10,What are the primary inputs and outputs [of this software]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_11,Which visualisation software is there for [this data] and what will it cost?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_12,What software works best with [my dataset]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_13,Does [it] render a gif?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_14,Which software tool created [this data]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_15,What software can I use [my data] with to support [my task]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_16,What are the input and output formats for [this software]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_17,"What data from [person x] is analysed with [tool y], [version z]?",SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_18,What software can read a .cel file?,SWO,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_19,What are the export options for [this software]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_20,What is the valid input for [this software]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_21,"Can [this software] export from its proprietary data format to an open format such as csv, txt?",SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_22,Can [software A] work with data that are output from [software B]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_23,To what extent does [the software] support appropriate open standards?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_24,Is [this software] compatible with [it]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_25,"What open source, maintained software can I use to process [these] in [this format]?",SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_26,Is the output format of [it] proprietary?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_27,Can I render [it] if the software supplier goes out of business?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_28,"Given [input x], what are the data exports for [this version] of [x]?",SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_29,Where can I get [the software]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_30,Is there a mailing list for [it]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_31,How do I get help with [it]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_32,How can I get problems with [it] fixed?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_33,Are there any active forums discussing [its] use?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_34,Where do I get updates for [this software]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_35,Who developed [it]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_36,What is the homepage of [the software]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_37,Can we collaborate with developers of [software x]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_38,Where can I buy [it] from?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_39,Which URL can I get [it] from?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_40,Which is the fastest software to read [this data]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_41,Does [this software] meet the ISO-4 standard?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_42,Do I know anyone who has used [this software] or processed [this type of data]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_43,How and where has [this software] been used successfully in the past?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_44,How long has [this software] been around?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_45,How actively developed is [it]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_46,What do others say about [the software] quality?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_47,How reliable is [it]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_48,What software is better for [task x] given [restriction y]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_49,Who are the potential users of [software we develop]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_50,Who else has used [tool x] today?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_51,How popular is [it]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_52,How many settings do I need to know to rerun [this analysis]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_53,Is [this software] available as a web service?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_54,What is the version of [this software]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_55,What new features are in [this version] of [it]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_56,What are the differences between versions of [it]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_57,When was the 1.0 version of [it] released?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_58,Is [this software] open source development? Is there a community development?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_59,"What license does [it] have, and what is its permissiveness?",SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_60,Is [it] open source or not?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_61,At what point did the license type of [it] change?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_62,Who owns the copyright for [it]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_63,What is the licensing history of [it]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_64,How many licenses do we need to run [it] productively?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_65,Is [it] FOSS?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_66,Do I need a password to use [it]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_67,Is [it] free or not?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_68,What level of expertise is required to use [it]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_69,Are there any usage examples for [it]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_70,Is there any documentation for [it] and where can I find it?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_71,Does [it] have a tutorial?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_72,Where is the documentation of [it]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_73,Where's the documentation of [it]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_74,How well documented is [the software] for developers?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_75,How do I cite [the software]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_76,Is there a publication with [it]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_77,Is [it] scriptable?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_78,Is [it] extensible?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_79,How can I extend [the software] to include a new function?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_80,Can I use some components of [the software] for my software?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_81,What hardware do I need to run [this software]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_82,What graphics card does [this software] require?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_83,In what language was [it] implemented?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_84,What platform does [the software] run on?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_85,Can I install [this] on a university computer?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_86,What compiler do I need to compile source code on [platform x]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_87,Does [it] work on 64 bit windows?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+swo_88,Do I need a license key to use [it]?,SWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+stuff_01,Is [this stuff] a pure or a mixed stuff?,Stuff,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+stuff_02,What is the difference between [this colloid] and [this colloid]?,Stuff,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+stuff_03,In which phases are the stuffs in [this colloid]?,Stuff,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+stuff_04,Can a solution be a pure stuff?,Stuff,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+stuff_05,Which kind of stuff are [these stuffs]?,Stuff,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+stuff_06,Are solutions never emulsions?,Stuff,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+stuff_07,Which stuffs have as part exactly two substuffs?,Stuff,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+stuff_08,What distinguishes structured from unstructured stuff?,Stuff,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+stuff_09,What kind of colloid is [this colloid stuff]?,Stuff,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+stuff_10,What kind of homogeneous mixture is [this colloid stuff]?,Stuff,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+stuff_11,Where do I categorise bulk like [this bulk]?,Stuff,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+awo_1,Which animal eats which other animal?,AWO,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+awo_2,Is [this animal] a herbivore?,AWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+awo_3,Which plant parts does [this omnivorous or herbivorourus animal] eat?,AWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+awo_4,Does a lion eat plants or plant parts?,AWO,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+awo_5,Is there an animal that does not drink water?,AWO,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+awo_6,Which plants eat animals?,AWO,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+awo_7,Which animals eat [these animals]?,AWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+awo_8,Which animals are the predators of [these animals]?,AWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+awo_9,Are there [these animals] in [this country]?,AWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+awo_10,Which country do I have to visit to see [these animals]?,AWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+awo_11,In what kind of habitat do [this animal] live?,AWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+awo_12,Which animals are endangered?,AWO,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+awo_13,Do [this animal] and [this animal] live in the same habitat?,AWO,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+awo_14,Are there animals that are carnivore but still eat some plants or parts of plants?,AWO,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_1,What are the protocol parts?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_2,What types of data are collected during medical and clinical consultation?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_3,What types of demographic data are collected?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_4,What is the gender information?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_5,What are the main types of education level?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_6,What are the main types of laterality?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_7,What types of clinical data are collected?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_8,What are the types of diagnosis?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_9,What types of cognitive abilities assessment data are collected?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_10,What data are collected for MMSE,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_11,What data are collected for FAB,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_12,What data are collected for the trail making test?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_13,What data are collected for the short cognitive battery test?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_14,What data are collected for the free and cued selective reminding test?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_15,What types of neuropsychiatric/mood assessment data are collected?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_16,What data are collected for NPI?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_17,What data are collected for DSM-IV criteria?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_18,What data are collected for AI and diagnostic criteria for apathy?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_19,What types of motricity abilities assessment data are collected?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_20,What data are collected for UPDRS?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_21,What types of autonomy assessment data are collected?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_22,What types of steps does ecological assessment consist of?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_23,What are the types of directed tasks?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_24,Which are the physical directed tasks?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_25,Which are the vocal directed tasks?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_26,What is the nature of a directed task?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_27,Which directed tasks are mono tasks?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_28,Which directed tasks are dual tasks?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_29,Which are the tasks of the semi-directed step?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_30,What are the types of tasks in the discussion with clinician step?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_31,Which are the directed discussion tasks?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_32,Which are the free discussion tasks?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_33,What is assessed in the walking task?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_34,What is assessed in the counting backwards task?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_35,What is assessed in the walking and counting backwards task?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_36,What is assessed in the sentence repeating task?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_37,What is assessed in the articulation control task?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_38,What is assessed in the tasks of the semi-directed protocol step?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_39,What is assessed in the tasks of the discussion with clinician step?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_40,What data are measured for gait assessment?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_41,What data are measured for dynamic balance?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_42,What data are measured for step length?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_43,What data are measured for walking speed?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_44,What data are measured for walking speed instantaneous?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_45,What data are measured for stopping displacement?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_46,What data are measured for latency?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_47,What data are measured for stress?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_48,What data are measured for cognitive and neuromuscular assessment?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_49,What data are measured for affective state assessment?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_50,What data are measured for interaction assessment?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_51,What data are measured for neuromuscular impairment in speech production mechanism?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_52,What data are measured for cognitive abilities assessment?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_53,What data are measured for organizational efficiency assessment?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_54,What data are measured for functional abilities assessment?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_55,What functional areas are of clinical relevance for the home and nursing home environments?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_56,How are the statistics and identified problematic situations about the monitored functional areas reported to the clinician?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_57,What types of questionnaires are administered for self-assessment?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_58,What activities (situations) are of clinical interest with respect to sleep?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_59,What information is of clinical interest regarding night sleep?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_60,What information is of clinical interest regarding a nap?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_61,What information is of clinical interest regarding an awakening?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_62,What information is of clinical interest regarding a bed exit?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_63,What information if of clinical interest regarding a night bathroom visit?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_64,What information is clinically relevant for sleep assessment?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_65,What sleep-related situations indicate a problem or possibly problematic behaviour that needs to be highlighted to the clinician?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_66,What activities (situations) are of clinical interest with respect to ADLs?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_67,What information is of clinical interest regarding food and drink preparation?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_68,What information is of clinical interest regarding food and drink consumption?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_69,What information is of clinical interest regarding housekeeping?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_70,What information is of clinical interest regarding personal hygiene?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_71,What food and drink preparation-related situations indicate a problem or possibly problematic behaviour that needs to be highlighted to the clinician?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_72,What food and drink consumption-related situations indicate a problem or possibly problematic behaviour that needs to be highlighted to the clinician?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_73,What housekeeping-related situations indicate a problem or possibly problematic behaviour that needs to be highlighted to the clinician?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_74,What personal hygiene-related situations indicate a problem or possibly problematic behaviour that needs to be highlighted to the clinician?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_75,What activities (situations) are of clinical interest with respect to social interaction?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_76,What information is clinically relevant for social interaction assessment?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_77,What social interaction related situations indicate a problem or possibly problematic behaviour that needs to be highlighted to the clinician?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_78,What activities (situations) are of clinical interest with respect to physical activity?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_79,What information is clinically relevant for walking?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_80,What information is clinically relevant for dedicated physical activities (i.e. exercises)?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_81,What information is clinically relevant for physical activity assessment?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_82,What physical activity related situations indicate a problem or possibly problematic behaviour that needs to be highlighted to the clinician?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_83,What are the main types of entities?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_84,What are the main categories a person may belong to?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_85,What are the main types of objects?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_86,What are the main categories of places?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_87,What are the types of indoor place?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_88,What are the main types of events?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_89,What are the main types of information describing an event?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_90,What are the main categories of events?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_91,What activities are detected?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_92,What states are detected?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_93,What object related events are detected?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_94,What ambient measurements are detected?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_95,What physiological measurements are detected?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_96,What activities are inferred?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_97,What are the main types of data considered?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_98,What are the main types of data an observation may refer to?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_99,What types of descriptive information are relevant to an observation?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_100,What are the main types of data a report may refer to?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_101,What types of descriptive information are relevant to a report?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_102,What are the main types of data an interpretation result may refer to?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_103,What types of descriptive information are relevant to a result?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_104,What are the main types of sensors?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_105,What are the possible types of wearable sensors?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_106,What are the possible types of fixed sensors?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+demcare_107,What are the possible types processing components?,Dem@Care,N,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+ontodt_01,What is the set of characterizing operations for [a datatype X]?,OntoDT,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+ontodt_02,What is the set of datatype qualities for [a datatype X]?,OntoDT,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+ontodt_03,What is the value space for [a datatype X]?,OntoDT,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+ontodt_04,What is the set of datatypes that have [a datatype quality X]?,OntoDT,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+ontodt_05,What is the set of datatypes that have [a characterizing operation X]?,OntoDT,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+ontodt_06,What is the set of datatypes that have [a datatype quality X] and [characterizing operation Y]?,OntoDT,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+ontodt_07,What are the aggregated datatypes that have [an aggregate generator property X]?,OntoDT,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+ontodt_08,What is the set of aggregate properties for [an aggregate datatype X]?,OntoDT,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+ontodt_09,What are the field components for [a tuple datatype X]?,OntoDT,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+ontodt_10,What is the base datatype for [a set datatype X]?,OntoDT,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+ontodt_11,What is the base datatype for [an extended datatype X]?,OntoDT,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+ontodt_12,What is the subtype generator for [an extended datatype X]?,OntoDT,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+ontodt_13,What is the set of extended datatypes that have [datatype X] as their base datatype?,OntoDT,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+ontodt_14,What is the set of extended datatypes that are generated by [a subtype generator X]?,OntoDT,Y,CQ dataset of Potoniec et al,https://data.mendeley.com/datasets/pp6hmfxgfg/1/files/2e8b6223-4816-4568-844e-c0899759c883
+toct_1,How many words does [template] have,ToCT,Y,"Mahlaza, Z., Keet, C.M. ToCT: A task ontology to manage complex templates. FOIS'21 Ontology Showcase, 13-16 September 2021, Bolzano, Italy. Sanfilippo, E.M. et al. (Eds.). CEUR-WS vol. 2969. 9p.",
+toct_2,How many words that depend on others does [template] have?,ToCT,Y,"Mahlaza, Z., Keet, C.M. ToCT: A task ontology to manage complex templates. FOIS'21 Ontology Showcase, 13-16 September 2021, Bolzano, Italy. Sanfilippo, E.M. et al. (Eds.). CEUR-WS vol. 2969. 9p.",
+toct_3,Which property results in a change in surface form between [word]?,ToCT,Y,"Mahlaza, Z., Keet, C.M. ToCT: A task ontology to manage complex templates. FOIS'21 Ontology Showcase, 13-16 September 2021, Bolzano, Italy. Sanfilippo, E.M. et al. (Eds.). CEUR-WS vol. 2969. 9p.",
+toct_4,"If there is a dependency between [word] and [word], which word is the governor?",ToCT,Y,"Mahlaza, Z., Keet, C.M. ToCT: A task ontology to manage complex templates. FOIS'21 Ontology Showcase, 13-16 September 2021, Bolzano, Italy. Sanfilippo, E.M. et al. (Eds.). CEUR-WS vol. 2969. 9p.",
+toct_5,Does [word] have a constant base form?,ToCT,Y,"Mahlaza, Z., Keet, C.M. ToCT: A task ontology to manage complex templates. FOIS'21 Ontology Showcase, 13-16 September 2021, Bolzano, Italy. Sanfilippo, E.M. et al. (Eds.). CEUR-WS vol. 2969. 9p.",
+toct_6,Which grammar rule will be activated when forming [word] if it’s dependent on another word?,ToCT,Y,"Mahlaza, Z., Keet, C.M. ToCT: A task ontology to manage complex templates. FOIS'21 Ontology Showcase, 13-16 September 2021, Bolzano, Italy. Sanfilippo, E.M. et al. (Eds.). CEUR-WS vol. 2969. 9p.",
+toct_7,Can [word] ever be placed in [slot]?,ToCT,Y,"Mahlaza, Z., Keet, C.M. ToCT: A task ontology to manage complex templates. FOIS'21 Ontology Showcase, 13-16 September 2021, Bolzano, Italy. Sanfilippo, E.M. et al. (Eds.). CEUR-WS vol. 2969. 9p.",
+toct_8,Can [grammar rule] exist without [word]?,ToCT,Y,"Mahlaza, Z., Keet, C.M. ToCT: A task ontology to manage complex templates. FOIS'21 Ontology Showcase, 13-16 September 2021, Bolzano, Italy. Sanfilippo, E.M. et al. (Eds.). CEUR-WS vol. 2969. 9p.",
+mola_1,Which languoids are dialects of [language]?,MoLA,Y,"Gillis-Webber, F., Tittel, S., Keet, C.M.. A Model for Language Annotations on the Web. 1st Iberoamerican conference on Knowledge Graphs and Semantic Web (KGSWC'19). Springer CCIS vol. 1029, 1-16. 23-30 June 2019, Villa Clara, Cuba.",https://ontology.londisizwe.org/mola/article/2019-kgswc-supplementary-material
+mola_2,How many languoids does [language family] have?,MoLA,Y,"Gillis-Webber, F., Tittel, S., Keet, C.M.. A Model for Language Annotations on the Web. 1st Iberoamerican conference on Knowledge Graphs and Semantic Web (KGSWC'19). Springer CCIS vol. 1029, 1-16. 23-30 June 2019, Villa Clara, Cuba.",https://ontology.londisizwe.org/mola/article/2019-kgswc-supplementary-material
+mola_3,Is dialect a language?,MoLA,N,"Gillis-Webber, F., Tittel, S., Keet, C.M.. A Model for Language Annotations on the Web. 1st Iberoamerican conference on Knowledge Graphs and Semantic Web (KGSWC'19). Springer CCIS vol. 1029, 1-16. 23-30 June 2019, Villa Clara, Cuba.",https://ontology.londisizwe.org/mola/article/2019-kgswc-supplementary-material
+mola_4,Which types of languages have been classified?,MoLA,N,"Gillis-Webber, F., Tittel, S., Keet, C.M.. A Model for Language Annotations on the Web. 1st Iberoamerican conference on Knowledge Graphs and Semantic Web (KGSWC'19). Springer CCIS vol. 1029, 1-16. 23-30 June 2019, Villa Clara, Cuba.",https://ontology.londisizwe.org/mola/article/2019-kgswc-supplementary-material
+mola_5,Is [languoid/language] divided into different time periods?,MoLA,Y,"Gillis-Webber, F., Tittel, S., Keet, C.M.. A Model for Language Annotations on the Web. 1st Iberoamerican conference on Knowledge Graphs and Semantic Web (KGSWC'19). Springer CCIS vol. 1029, 1-16. 23-30 June 2019, Villa Clara, Cuba.",https://ontology.londisizwe.org/mola/article/2019-kgswc-supplementary-material
+mola_6,Does [language] have a region defined?,MoLA,Y,"Gillis-Webber, F., Tittel, S., Keet, C.M.. A Model for Language Annotations on the Web. 1st Iberoamerican conference on Knowledge Graphs and Semantic Web (KGSWC'19). Springer CCIS vol. 1029, 1-16. 23-30 June 2019, Villa Clara, Cuba.",https://ontology.londisizwe.org/mola/article/2019-kgswc-supplementary-material
+mola_7,Which languages are spoken in [region]?,MoLA,Y,"Gillis-Webber, F., Tittel, S., Keet, C.M.. A Model for Language Annotations on the Web. 1st Iberoamerican conference on Knowledge Graphs and Semantic Web (KGSWC'19). Springer CCIS vol. 1029, 1-16. 23-30 June 2019, Villa Clara, Cuba.",https://ontology.londisizwe.org/mola/article/2019-kgswc-supplementary-material
+mola_8,Is [language] the standard variety?,MoLA,Y,"Gillis-Webber, F., Tittel, S., Keet, C.M.. A Model for Language Annotations on the Web. 1st Iberoamerican conference on Knowledge Graphs and Semantic Web (KGSWC'19). Springer CCIS vol. 1029, 1-16. 23-30 June 2019, Villa Clara, Cuba.",https://ontology.londisizwe.org/mola/article/2019-kgswc-supplementary-material
+mola_9,Is [language] in ISO 639?,MoLA,Y,"Gillis-Webber, F., Tittel, S., Keet, C.M.. A Model for Language Annotations on the Web. 1st Iberoamerican conference on Knowledge Graphs and Semantic Web (KGSWC'19). Springer CCIS vol. 1029, 1-16. 23-30 June 2019, Villa Clara, Cuba.",https://ontology.londisizwe.org/mola/article/2019-kgswc-supplementary-material
+scq_1,What is the conformance level of the LRS?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_2,Which group is the most active?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_3,Which is the preferred interaction tool between agents?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_4,What is the activity that appears most frequently in the LRS?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_5,Which verb is the most used?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_6,Which activity interaction has the lowest success rate?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_7,Is there a rain qualified as a very heavy rain?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_8,"What are the values of a rain properties (unit, location, date, etc",,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_9, Who are the stakeholders involved in energy management at district and building levels?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_10,   What KPIs can be used to measure the performance goals of stakeholders?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_11,   How can KPIs be calculated?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_12,   What observation provides the datum sources for KPI calculation?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_13,   Where is the district located?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_14,   What type of buildings does the district contain?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_15,   What kind of energy-generating units are installed in the district?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_16,   When is the energy production monitored?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_17,   What is the unit of measurement of the energy production?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_18,   What energy aspects are influenced by the weather?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_19,   What all is known about the natural history of [species X]?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_20,   What natural history observations do we have for [species X] in North America?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_21,"   What are the positive, negative, and neutral biotic interactions observed for species of the [genus X]?",,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_22,   Toward which species is [species X] antagonistic?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_23,"   Given a list of species from some community, how do these species interact with each other?",,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_24,"   If species X were to become locally extinct, what other species might be impacted?",,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_25,"   Which insect species might be conserved if a piece of forest with tree species X, Y, and Z is preserved?",,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_26,   Which species visit flowers of the genus X?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_27,   Which insect species of the [family X] are associated with trees?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_28,   Which species of the genus X have not been found on flowers?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_29,   Near which tree species does species X engage in courtship behaviors?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_30,   Are all occurrences of species X associated with plant species Y?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_31,   Which species of the order X have been observed laying eggs on a plant species on which they have not been observed feeding?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_32,   What predator/prey interactions have been observed in state park X?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_33,"   What specimens are associated with observations of predation by species X, and where are they located?",,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_34,   From which host life stages has parasitoid species X emerged?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_35,   Which species of the genus X are parasitized by the species Y?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_36,   From which species have species of the genus X emerged?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_37,   Which host associations for the parasitoid species X are supported by at least 3 different observers?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_38,   Are there parasitoids of hyperparasitoids?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_39,   What species of insects have been found in two or more hosts from different taxonomic orders?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_40,   On eggs of which species has parasitoid species X been found?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_41,   What does species X eat?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_42,   What are all the food sources for lab rearing of species X?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_43,   What predators eat species X?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_44,   Does species X eat carrion?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_45,   Do insects ever eat hummingbirds?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_46,   Which species farm fungus X?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_47,   Where does species X lay its eggs?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_48,   When does species X lay its eggs?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_49,   Which insects are found on insects that are found on carrion?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_50,   Which species of the family X have larvae associated with species of the family Y?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_51,   On which parts of the human body have bot flies been found?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_52,   Which ant species are known to sting humans?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_53,   What are the northern-most records of insects feeding on humans?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_54,   Which species of the order X have been collected in houses in Florida?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_55,   Which insect species have been found on human remains?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_56,   What are potential natural controls of potential pests of crop X?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_57,   What are the potential vectors of crop disease X?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_58,   Which species of the order X parasitize mammals in Africa?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_59,   Does species X make a cocoon?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_60,   What do we know about the development of species X?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_61,   Is there developmental information about species X from lab rearings?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_62,   What is known about the development time of species X?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_63,   Which species of genus X are found in tropical lowland forests?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_64,   Which insect genera are found in both forests and deserts?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_65,   Which species are found in biome X?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_66,   Under what temperature regimes do fireflies signal?,,N,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_67,   Which species in family X are nocturnal?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_68,   Has species X been collected at lights?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_69,   Which non-target species are collected in pheromone traps for species X?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+scq_70,   What methods should I use to observe or collect species X?,,Y,Collected by MJ Antia,https://github.com/mkeet/CLaRO/blob/master/CLaRO%20v2/testsets_template_results.xlsx
+coffee_scq1,   What types of coffee beans and beverages will be included?,,N,this library,
+coffee_scq2,   Which equipment is required for each brewing technique?,,N,this library,
+sno_scq1,What can the pipes in a sewer network convey?,SewerNet,N,SewerNet paper (under review),
+sno_scq1,What is the material of the pipe?,SewerNet,N,SewerNet paper (under review),
